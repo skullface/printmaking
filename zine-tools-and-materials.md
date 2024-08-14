@@ -1,9 +1,9 @@
 # Zine tools and materials
 
-The tools and materials I use as a zinester! The brands and models I use are based on my personal preferences/budget and their availability in the U.S.
+The tools and materials I use as a new zinester! The brands and models I use are based on my personal preferences/budget and their availability in the U.S.
 
-> [!NOTE]  
-> Amazon links are affiliate links because I recommend these items. If you purchase from these links, I may receive a small commission. **I recommend shopping your local, independent art supply store first!**
+> [!NOTE]
+> Amazon links to items I recommend are affiliate links. If you purchase from these links, I may receive a small commission. **I encourage shopping your local, independent art supply store first!**
 
 ## Paper
 

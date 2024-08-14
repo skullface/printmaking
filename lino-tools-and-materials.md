@@ -1,6 +1,6 @@
 # Linocut tools and materials
 
-The tools and materials I use as a relief printer focused on linocut! The brands and models I use are based on my personal preferences/budget and their availability in the U.S. There are way fancier options and way more affordable/DIY options out there. I choose my tools and materials based on the following criteria:
+The tools and materials I use as a new relief printer focused on linocut! The brands and models I use are based on my personal preferences/budget and their availability in the U.S. There are way fancier options and way more affordable/DIY options out there. I choose my tools and materials based on the following criteria:
 
 - Will I need to replace it after a few uses?
 - Can I maintain it myself? How difficult is it to do so?
@@ -8,8 +8,8 @@ The tools and materials I use as a relief printer focused on linocut! The brands
 - Does my local art supply store carry it? Does my local print studio have it?
 - If I stop using it, does it have value to be donated to my local print studio or another local artist?
 
-> [!NOTE]  
-> Amazon links are affiliate links because I recommend these items. If you purchase from these links, I may receive a small commission. **I recommend shopping your local, independent art supply store first!** Other shops include [Jackson’s Art](https://jacksonsart.com), [Takach Press](https://www.takachpress.com/), [Jerry’s Artarama](https://www.imcclains.com/), and [McClain’s](https://www.imcclains.com/).
+> [!NOTE]
+> Amazon links to items I recommend are affiliate links. If you purchase from these links, I may receive a small commission. **I encourage shopping your local, independent art supply store first!** Other online shops include [Jackson’s Art](https://jacksonsart.com), [Takach Press](https://www.takachpress.com/), [Jerry’s Artarama](https://www.imcclains.com/), and [McClain’s](https://www.imcclains.com/).
 
 ## Paper
 
@@ -49,7 +49,9 @@ Price per sheet is based on the minimum purchasable quantity, usually 50 sheets.
 | 7.5mm | Flat Chisel                                    |                                             | Mikisyo Power Grip |
 | 14mm  | [Sweep Gouge](https://amzn.to/4dd1AYN)         | [FR401 #5](https://amzn.to/4dd1AYN)         | Flexcut            |
 
-I got most of my [Power Grip tools from this 5-piece kit](https://amzn.to/3M2iq0D) ($23) at <$5 per knife, though, admittedly, I don’t reach for the chisels much. Not to be pretentious about it, but [the popular Speedball beginner cutter set](https://m.media-amazon.com/images/I/81ndFbsfxhL._AC_SL1500_.jpg) ($15) is _not_ worth buying. The handle is uncomfortable and the blades are dull and unsharpenable. The 5-piece Power Grip kit costs under $10 more for a _much_ better value.
+I got most of my [Power Grip tools from this 5-piece kit](https://amzn.to/3M2iq0D) ($23) at <$5 per knife, though, admittedly, I don’t reach for the chisels much.
+
+I advocate for folks using the tools they want to, but I can’t recommend the [the popular Speedball beginner cutter set](https://m.media-amazon.com/images/I/81ndFbsfxhL._AC_SL1500_.jpg) ($15). The 5-piece Power Grip kit costs about $8 more for a much better value: it’s more comfortable in your hand and you can sharpen the blades.
 
 I use a [Flexcut Slipstrop](https://amzn.to/46KZrkE) to sharpen my blades after every few hours of use.
 
@@ -61,7 +63,7 @@ _Still looking for my favorite_
 
 ### Cranfield Caligo Safe Wash Relief Inks
 
-Oil-based ink that washes off with soap and water instead of requiring messy oil cleanup like traditional oil-based inks. The downside: dry time takes days instead of minutes.
+Oil-based ink that washes off with soap and water instead of requiring messy cleanup (like traditional oil-based inks). The downside: dry time takes days instead of minutes.
 
 - Process Blue (Cyan)
 - Process Red (Magenta)
@@ -104,7 +106,7 @@ Water-based ink that cleans up with just water. These are affordable and readily
 
 ## Laser printer
 
-- I use a Brother black-and-white laser printer/scanner. The exact model I have is discontinued, so [check the Wirecutter pick for the current equivalent](https://www.nytimes.com/wirecutter/reviews/best-laser-printer/). I bought mine refurbished in 2016 and it’s still one of my fav purchases ever. I recommend [checking Amazon for “renewed” models](https://amzn.to/3SLWx9z); they’re hard to come across used irl because they’re so reliable.
+- I use a Brother black-and-white laser printer/scanner for all my home printing needs (mostly to transfer to lino blocks). The [exact model](https://www.brother-usa.com/products/hll2380dw) I have is discontinued, so [check the Wirecutter pick for the current equivalent](https://www.nytimes.com/wirecutter/reviews/best-laser-printer/). I bought mine refurbished in 2016 and it’s still one of my fav purchases ever to this day in 2024. I recommend [checking Amazon for “renewed” models](https://amzn.to/3SLWx9z); they’re hard to come across used irl because they’re so reliable.
 
 ## Cleaning
 
