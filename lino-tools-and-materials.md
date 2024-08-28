@@ -53,11 +53,13 @@ I got most of my [Power Grip tools from this 5-piece kit](https://amzn.to/3M2iq0
 
 I advocate for folks using the tools they want to, but I can’t recommend the [the popular Speedball beginner cutter set](https://m.media-amazon.com/images/I/81ndFbsfxhL._AC_SL1500_.jpg) ($15). The 5-piece Power Grip kit costs about $8 more for a much better value: it’s more comfortable in your hand and you can sharpen the blades.
 
+My favorite cutting tools are the Flexcut ones. I’m interested in trying Pfeil, but I have no need to spend that type of money right now.
+
 I use a [Flexcut Slipstrop](https://amzn.to/46KZrkE) to sharpen my blades after every few hours of use.
 
 ## Bench hook
 
-_Still looking for my favorite_
+_Still looking for my favorite. Currently switching between the Speedball metal bench hook/ink tray and Essdee wooden 30x20cm bench hook. I think I’ll eventually need to make my own to work with blocks up to 10x10"._
 
 ## Inks
 
@@ -110,6 +112,6 @@ Water-based ink that cleans up with just water. These are affordable and readily
 
 ## Cleaning
 
-- Dollar store sponges
-- Crisco (or other cheap vegetable oil) to clean ink off inking slab, blocks, and brayers
-- Dish soap to clean oil and remaining ink off tools and hands
+- Dollar store soft sponges and medium bristle scrub brush
+- Dish soap to clean ink off hands, inking slab, blocks, and brayers
+- Crisco/cheap veggie oil or Simple Green to scrub any more stubborn ink off tools and hands
